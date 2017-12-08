@@ -1,4 +1,12 @@
-/* File: initgroups.c * Author: ByXc * About: 模仿 initgroups() 函數 * Version: 1.0 * Compiler: gcc 7.1.0 for ubuntu * Date: 20171208 * Github: ByXc01 * Blog: http://ByXc01.github.io */
+/* File: initgroups.c
+ * Author: ByXc
+ * About: 模仿 initgroups() 函數
+ * Version: 1.0
+ * Compiler: gcc 7.1.0 for ubuntu
+ * Date: 20171208
+ * Github: ByXc01
+ * Blog: http://ByXc01.github.io
+ */
 
 /* Ps: 進程必須享有特權 */
 
